@@ -1,4 +1,4 @@
-Code for "Explosive Transitions in Coevolutionary Dynamics of Synchronization and Cooperation".
+Code and data for "Explosive Transitions in Coevolutionary Dynamics of Synchronization and Cooperation".
 
 This repository provides the source code used for the numerical simulations and evolutionary dynamics analysis in the study. The code is implemented in Fortran.
 
